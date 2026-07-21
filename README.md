@@ -38,7 +38,7 @@ orders, 43,233 customers, and ₹91.83M in revenue across five countries (2020�
 **📷 Dashboard Previews**
 
 **Customer Analytics Dashboard**
-![Customer Dashboard](Amazon_Customer_Analytics_Dashboard.png)
+![Customer Dashboard](Amazon Customer Analytics Dashboard.png)
 
 ### Sales & Product Analytics Dashboard
 ![Sales Dashboard](Amazon Sales & Product Analytics Dashboard.png)
